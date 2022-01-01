@@ -3,12 +3,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mazharul Shameem <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/40/000000/external-smile-emotion-tulpahn-outline-color-tulpahn.png"/></h1>
 
 
-<h3 align="center">"I’m a Bangladesh – based web designer & WordPress developer focused on crafting clean & user-friendly experiences. I am passionate about building an excellent website that improves the lives of those around me..</h3>
+<h3 align="center">"I’m a Bangladesh based Web Designer & WordPress developer focused on crafting clean & user-friendly experiences. I am passionate about building an excellent website that improves the lives of those around me..</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project]()**
+- 🔭 I’m currently working on **[Project ]()**
 - 🌱 I’m currently learning on Artificial Intelligence 
 - 👯 I’m looking to collaborate on **[OpenSource Projects]**
 
