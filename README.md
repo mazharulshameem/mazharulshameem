@@ -6,7 +6,7 @@
 <h3 align="center">"I’m a Bangladesh based Web Designer & WordPress developer focused on crafting clean & user-friendly experiences. I am passionate about building an excellent website that improves the lives of those around me..</h3>
 
 
-<img src="https://img.icons8.com/external-flat-juicy-fish/35/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/> About Me
+<img src="https://img.icons8.com/external-flat-juicy-fish/35/000000/external-male-coding-and-development-flat-flat-juicy-fish.png"/> About Me:
 
 - 🔭 I’m currently working on **[Project ]()**
 - 🌱 I’m currently learning on Artificial Intelligence 
