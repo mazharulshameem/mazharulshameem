@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="300" src="https://i.imgur.com/xDN9nWY.png" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mazharul Shameem </h1>
-<h3 align="center">A passionate Web Developer from Bangladesh.</h3>
+<h3 align="center">"I’m a Bangladesh – based web designer & WordPress developer focused on crafting clean & user-friendly experiences. I am passionate about building an excellent website that improves the lives of those around me..</h3>
 
 
 ## 🙋‍♂️ About Me
