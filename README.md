@@ -77,7 +77,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com//github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mazharulshameem">
 </a>
 <a href="https://github.com/mazharulshameem?tab=followers"><img src="https://img.shields.io/github/followers/mazharulshameem?label=Followers&style=social" alt="GitHub Badge"></a>
