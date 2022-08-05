@@ -45,7 +45,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Mazharul Shameem/github-readme-streak-stats">
+    <a href="https://github.com/mazharulshameem/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mazharul Shameem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mazharulshameem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
