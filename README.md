@@ -69,8 +69,7 @@
 <br/>
 <br/>
 
-<p align="center">
- <p align="center">## Connect with me:</p>
+## Connect with me:
 
 
 <a href = "https://www.linkedin.com/in/mazharulshameem/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -79,10 +78,7 @@
 
 </p>
 
-<p align="center">
-## ❤ Views and Followers </p>
-
-<p align="center">
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mazharulshameem">
 </a>
