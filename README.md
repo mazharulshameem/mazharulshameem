@@ -69,10 +69,10 @@
 <br/>
 <br/>
 
-
-## Connect with me:
-
 <p align="center">
+ <p align="center">## Connect with me:</p>
+
+
 <a href = "https://www.linkedin.com/in/mazharulshameem/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://facebook.com/mazharulshameem"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://github.com/mazharulshameem"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
@@ -80,9 +80,10 @@
 </p>
 
 <p align="center">
-## ❤ Views and Followers
+## ❤ Views and Followers </p>
+
+<p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mazharulshameem">
 </a>
 <a href="https://github.com/mazharulshameem?tab=followers"><img src="https://img.shields.io/github/followers/mazharulshameem?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
