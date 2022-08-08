@@ -51,7 +51,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Statistics & Languages
 <p align="center">
   <br/>
     <a href="https://github.com/mazharulshameem/github-readme-stats"><img alt=" Mazharul Shameem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mazharulshameem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -69,16 +69,17 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 🎯 Connect with me:
 
 
-<a href = "https://www.linkedin.com/in/mazharulshameem/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://facebook.com/mazharulshameem"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://github.com/mazharulshameem"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+<a target="_blank" href = "https://facebook.com/mazharulshameem"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a target="_blank" href="https:/www.behance.com/mazharulshameem/icons8.com/icon/12485/behance">Behance icon by Icons8</a>
+<a target="_blank" href = "https://www.linkedin.com/in/mazharulshameem/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://github.com/mazharulshameem"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
+## 💘 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mazharulshameem">
 </a>
