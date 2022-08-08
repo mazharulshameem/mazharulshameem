@@ -71,10 +71,10 @@
 
 ## 🎯 Connect with me:
 
-
 <a href = "https://facebook.com/mazharulshameem" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a target="_blank" href="https://behance.com/mazharulshameem/icon/12485/behance">Behance icon by Icons8</a>
 <a href = "https://behance.com/mazharulshameem" target="_blank"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
-<a href = "https://www.linkedin.com/in/mazharulshameem/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/mazharulshameem" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/mazharulshameem"target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 
 </p>
