@@ -71,7 +71,7 @@
 
 ## 🎯 Connect with me:
 
-<a href = "https://www.google.com/search?rlz=1C1BNSD_enBD954BD954&sxsrf=ALiCzsa8dJ4EoTqbFFdFMytPttnF-DBCYA%3A1660052322615&q=Mazharul%20Shameem&stick=H4sIAAAAAAAAAONgU1I1qDC2TEtNskw2NrQ0MDZIMjO3MqhIS7QwMDBMtjAxMkk1NjVJW8Qq4JtYlZFYVJqjEJyRmJuamgsA1_S_RDwAAAA&ved=2ahUKEwiowv3n8Ln5AhUg1TgGHRPbDRIQrMcEegQIAxAG" target="_blank"><img src="https://img.icons8.com/color/48/000000/google.png"/></a>
+<a href = "https://www.google.com/search?rlz=1C1BNSD_enBD954BD954&sxsrf=ALiCzsa8dJ4EoTqbFFdFMytPttnF-DBCYA%3A1660052322615&q=Mazharul%20Shameem&stick=H4sIAAAAAAAAAONgU1I1qDC2TEtNskw2NrQ0MDZIMjO3MqhIS7QwMDBMtjAxMkk1NjVJW8Qq4JtYlZFYVJqjEJyRmJuamgsA1_S_RDwAAAA&ved=2ahUKEwiowv3n8Ln5AhUg1TgGHRPbDRIQrMcEegQIAxAG" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-logo.png"/></a>
 <a href = "https://facebook.com/mazharulshameem" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://behance.com/mazharulshameem" target="_blank"><img src="https://img.icons8.com//48/000000/behance.png"/></a>
 <a href = "https://linkedin.com/in/mazharulshameem" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
