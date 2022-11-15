@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></a>
+<a href="#"><img width="100%" height="60%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></a>
 
 
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mazharul Shameem <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/40/000000/external-smile-emotion-tulpahn-outline-color-tulpahn.png"/></h1>
