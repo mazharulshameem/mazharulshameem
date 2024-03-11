@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Software Testing**
  
- 🌱 I’m currently learning **Agile, DevOps**
+ 🌱 I’m currently learning **Security Testing**
 
 💬 Ask me about ** Manual Testing, Api Testing, Performance Testing**
 
